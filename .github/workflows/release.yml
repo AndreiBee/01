@@ -1,9 +1,9 @@
-name: 'C++ CI'
+name: "C++ CI"
 
 on:
   push:
     branches:
-      - master
+      - main
       - feature/github_actions
 
 jobs:
